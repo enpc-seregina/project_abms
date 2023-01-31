@@ -7,10 +7,8 @@ The template will serve to create your own multi-agent simulation model for a ca
 
 To create your own github repository with the proposed structure,
 
-**Step 1:** On GitHub.com, navigate to the main page of the repository.
-
-**Step 2:** Above the file list, click **Use this template**.
-
+**Step 1:** On GitHub.com, navigate to the main page of the repository.<br/>
+**Step 2:** Above the file list, click **Use this template**.<br/>
 **Step 3:** Select **Create a new repository**.
 
 **Step 4:** Use the **Owner** drop-down menu, and select the account you want to own the repository.

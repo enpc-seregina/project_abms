@@ -1,4 +1,5 @@
-# Template repository - mini project - Agent-Based Modeling and Simulation (ABMS) of Mobility and Transportation.
+# Template repository - Mini project
+## Agent-Based Modeling and Simulation (ABMS) of Mobility and Transportation.
 
 This template is the basis for the mini-project as a part of the ABMS of Mobility and Transportation course.
 
